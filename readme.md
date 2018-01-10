@@ -6,3 +6,4 @@ Cryptocurrencies ticker using Onion Omega2 + Arduino Dock and 16x2 LCD display
 * Improve python code
 * Support more currencies
 * Improve LCD display
+* Link ticker 3d case model
